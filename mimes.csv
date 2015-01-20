@@ -24,7 +24,7 @@ application/x-authorware-seg,Adobe (Macropedia) Authorware - Segment File,.aas
 application/vnd.adobe.air-application-installer-package+zip,Adobe AIR Application,.air
 application/x-shockwave-flash,Adobe Flash,.swf
 application/vnd.adobe.fxp,Adobe Flex Project,.fxp
-application/pdf,Adobe Portable Document Format,.pdf
+application/pdf,PDF Document,.pdf
 application/vnd.cups-ppd,Adobe PostScript Printer Description File Format,.ppd
 application/x-director,Adobe Shockwave Player,.dir
 application/vnd.adobe.xdp+xml,Adobe XML Data Package,.xdp
@@ -289,7 +289,7 @@ application/x-latex,LaTeX,.latex
 application/vnd.llamagraphics.life-balance.desktop,Life Balance - Desktop Edition,.lbd
 application/vnd.llamagraphics.life-balance.exchange+xml,Life Balance - Exchange Format,.lbe
 application/vnd.jam,Lightspeed Audio Lab,.jam
-application/vnd.lotus-1-2-3,Lotus 1-2-3,.123
+application/vnd.lotus-1-2-3,Lotus 1-2-3,0.123
 application/vnd.lotus-approach,Lotus Approach,.apr
 application/vnd.lotus-freelance,Lotus Freelance,.pre
 application/vnd.lotus-notes,Lotus Notes,.nsf
@@ -346,24 +346,24 @@ application/x-mscardfile,Microsoft Information Card,.crd
 application/vnd.ms-lrm,Microsoft Learning Resource Module,.lrm
 application/x-msmediaview,Microsoft MediaView,.mvb
 application/x-msmoney,Microsoft Money,.mny
-application/vnd.openxmlformats-officedocument.presentationml.presentation,Microsoft Office - OOXML - Presentation,.pptx
-application/vnd.openxmlformats-officedocument.presentationml.slide,Microsoft Office - OOXML - Presentation (Slide),.sldx
-application/vnd.openxmlformats-officedocument.presentationml.slideshow,Microsoft Office - OOXML - Presentation (Slideshow),.ppsx
-application/vnd.openxmlformats-officedocument.presentationml.template,Microsoft Office - OOXML - Presentation Template,.potx
-application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,Microsoft Office - OOXML - Spreadsheet,.xlsx
-application/vnd.openxmlformats-officedocument.spreadsheetml.template,Microsoft Office - OOXML - Spreadsheet Teplate,.xltx
-application/vnd.openxmlformats-officedocument.wordprocessingml.document,Microsoft Office - OOXML - Word Document,.docx
-application/vnd.openxmlformats-officedocument.wordprocessingml.template,Microsoft Office - OOXML - Word Document Template,.dotx
+application/vnd.openxmlformats-officedocument.presentationml.presentation,Microsoft PowerPoint,.pptx
+application/vnd.openxmlformats-officedocument.presentationml.slide,Microsoft PowerPoint,.sldx
+application/vnd.openxmlformats-officedocument.presentationml.slideshow,Microsoft PowerPoint,.ppsx
+application/vnd.openxmlformats-officedocument.presentationml.template,Microsoft PowerPoint,.potx
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,Microsoft Excel,.xlsx
+application/vnd.openxmlformats-officedocument.spreadsheetml.template,Microsoft Excel,.xltx
+application/vnd.openxmlformats-officedocument.wordprocessingml.document,Microsoft Word,.docx
+application/vnd.openxmlformats-officedocument.wordprocessingml.template,Microsoft Word,.dotx
 application/x-msbinder,Microsoft Office Binder,.obd
 application/vnd.ms-officetheme,Microsoft Office System Release Theme,.thmx
 application/onenote,Microsoft OneNote,.onetoc
 audio/vnd.ms-playready.media.pya,Microsoft PlayReady Ecosystem,.pya
 video/vnd.ms-playready.media.pyv,Microsoft PlayReady Ecosystem Video,.pyv
 application/vnd.ms-powerpoint,Microsoft PowerPoint,.ppt
-application/vnd.ms-powerpoint.addin.macroenabled.12,Microsoft PowerPoint - Add-in file,.ppam
-application/vnd.ms-powerpoint.slide.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Open XML Slide,.sldm
-application/vnd.ms-powerpoint.presentation.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Presentation File,.pptm
-application/vnd.ms-powerpoint.slideshow.macroenabled.12,Microsoft PowerPoint - Macro-Enabled Slide Show File,.ppsm
+application/vnd.ms-powerpoint.addin.macroenabled.12,Microsoft PowerPoint,.ppam
+application/vnd.ms-powerpoint.slide.macroenabled.12,Microsoft PowerPoint,.sldm
+application/vnd.ms-powerpoint.presentation.macroenabled.12,Microsoft PowerPoint,.pptm
+application/vnd.ms-powerpoint.slideshow.macroenabled.12,Microsoft PowerPoint,.ppsm
 application/vnd.ms-project,Microsoft Project,.mpp
 application/x-mspublisher,Microsoft Publisher,.pub
 application/x-msschedule,Microsoft Schedule+,.scd
@@ -507,7 +507,7 @@ application/vnd.ctc-posml,PosML,.pml
 application/postscript,PostScript,.ai
 application/x-font-type1,PostScript Fonts,.pfa
 application/vnd.powerbuilder6,PowerBuilder,.pbd
-application/pgp-encrypted,Pretty Good Privacy,""
+application/pgp-encrypted,Pretty Good Privacy,
 application/pgp-signature,Pretty Good Privacy - Signature,.pgp
 application/vnd.previewsystems.box,Preview Systems ZipLock/VBox,.box
 application/vnd.pvi.ptid1,Princeton Video Image,.ptid
