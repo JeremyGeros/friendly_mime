@@ -1,3 +1,7 @@
+application/vnd.google-apps.document,Google Document,.google-document
+application/vnd.google-apps.spreadsheet,Google Spreadsheet,.google-spreadsheet
+application/vnd.google-apps.drawing,Google Drawing,.google-drawing
+application/vnd.google-apps.presentation,Google Presentation,.google-presentation
 application/vnd.hzn-3d-crossword,3D Crossword Plugin,.x3d
 video/3gpp,3GP,.3gp
 video/3gpp2,3GP2,.3g2
